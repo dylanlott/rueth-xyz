@@ -1,3 +1,4 @@
 baseURL = 'http://rueth.xyz/'
 languageCode = 'en-us'
 title = 'rueth.xyz'
+theme = 'risotto'
